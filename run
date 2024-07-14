@@ -1,1 +1,3 @@
 
+#bat dau xmrig cua ban
+# ./xmrig -a algorithm -o pool -u wallet -p password -t cpu
